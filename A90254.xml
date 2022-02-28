@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Overtures for promoting the trade of this nation: humbly offered to the serious consideration of the ensuing session of Parliament, by a well-wisher to his country.</title>
+            <author>Well-wisher to his country.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90254</idno>
+            <idno type="STC">Wing O644A</idno>
+            <idno type="STC">ESTC R230057</idno>
+            <idno type="EEBO-CITATION">45504497</idno>
+            <idno type="OCLC">ocm 45504497</idno>
+            <idno type="VID">171813</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90254)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171813)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2593:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Overtures for promoting the trade of this nation: humbly offered to the serious consideration of the ensuing session of Parliament, by a well-wisher to his country.</title>
+                  <author>Well-wisher to his country.</author>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Imperfect: stained.</note>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  Commerce --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:171813:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 22 -->
+            <head>OVERTURES For Promoting the Trade of this Nation: Humbly Offered to the SERIO<g ref="char:V">Ʋ</g>S CONSIDERATION Of the Enſuing Seſſion of Parliament, By a Well-wiſher to his Country.</head>
+            <p>THAT the Government may, conform to the prudent Practice of moſt Nations, Regulate with other Countries the Ballance of Trade, which now, to our great Loſs, lyes ſtrongly every where againſt us.</p>
+            <p>To which purpoſe, 'tis humbly conceived, That ſuch Foreign Com<g ref="char:EOLhyphen"/>modities, as may be conveniently ſpared, be Prohibited.</p>
+            <p>That ſuch unwrought Commodities from Abroad, as may be Manu<g ref="char:EOLhyphen"/>factured at Home, be encouraged to be Imported; not only to keep our People and Money Vertuouſly Imploied at Home, but alſo to ſend Abroad for ſuch Neceſſaries thence, as cannot be wanted.</p>
+            <p>Therefore, the following Particulars of Trade with Foreign Countries, are humbly tendered. <hi>viz.</hi>
+            </p>
+            <div type="part">
+               <head>
+                  <hi>Norway, Denmark, Sweden,</hi> and all the <hi>Baltick</hi> Sea,</head>
+               <p>Take our Commodities, and we want theirs; As Timber, Pitch, Tar, Hemp, Flax, Pot-aſhes, Iron, Copper, Braſs-Wire, <hi>&amp;c.</hi> And if our Ma<g ref="char:EOLhyphen"/>nufactures were encouraged, the Ballance would be on our ſide.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Hamburgh,</hi> and <hi>Bremen</hi>
+               </head>
+               <p>Affords us few Things neceſſary.</p>
+            </div>
+            <div type="part">
+               <pb n="2" facs="tcp:171813:2"/>
+               <!-- PDF PAGE 23 -->
+               <head>Holland</head>
+               <p>Furniſhes us with many Commodities, but few of them are abſolutely neceſſary, and the Ballance is now on their ſide; whereas, before our Wool was exported, we yearly drew much Money thence by Woollen Manufactures, exported chiefly from <hi>Aberdeen;</hi> as may appear by the great quantity of Dollers and Ducatoons, ſtill current among us.</p>
+            </div>
+            <div type="part">
+               <head>England</head>
+               <p>Takes but few of our Commodities, except Cattle; yet our Merchants bring in conſiderable Quantities of ſuch Goods, as might well be wanted: So that, what by the Expenſe of our Nobility and Gentry at Court, and the unneceſſary Commodities imported thence, the Exchange is raiſed ſo high, that vaſt Sums of Gold and Silver <hi>in ſpecie,</hi> are carried thither.</p>
+            </div>
+            <div type="part">
+               <head>France</head>
+               <p>Tends much to our Diſadvantage in Trade: For they prohibite, under Forfeiture of Ship and Cargo, the Importing our Herring, and all our Manufactures: And we expend vaſtly for their Salt, Wine, Brandy, <hi>&amp;c.</hi> The two laſt take above 30000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 
+                  <hi>Sterline per annum;</hi> whereas we may be ſufficiently provided from other Countries with Liquors, by our own Product.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Portugal, Spain,</hi> and all the <hi>Straits,</hi>
+               </head>
+               <p>Whoſe Product is Silk, Wool, <hi>Braſile</hi>-Sugar, ſeveral ſorts of Wine and Fruits. Rice and Oyl: They allow us the Freedom of Trading with them, not ſo much to our Loſs: And, were our Manufactures duely improved, it might more likely contribute to our Profit. So that, if we be fond of Wines, it were more reaſonable to have them from thence; tho Care muſt be taken, that, under colour thereof, <hi>French</hi> Wines be not impor<g ref="char:EOLhyphen"/>ted; and that neither Wines nor Fruits be brought, but directly from the Place of their own growth; becauſe Bad of both ſorts come often from <hi>Holland.</hi>
+               </p>
+               <p>IT is alſo humbly Offered, That the Exportation and Importa<g ref="char:EOLhyphen"/>tion of the following Goods may be prohibited, under ſevere Penalties, as highly Prejudicial to the Intereſt of the Nation.</p>
+            </div>
+            <div type="part">
+               <head>Exportation of Goods to be prohibited, as</head>
+               <p>Wool, all ſorts of Yarn, Skins and Hides, of our own Growth Unma<g ref="char:EOLhyphen"/>nufactured; But that all Foreign Wool may be imported, free of any Duty: The benefit of which, the Practice of our Neighbouring Nations, making the Offences Capital, may fully Convince us of. The great Induſtry of <hi>Sweden, Denmark,</hi> &amp;c. tho they have very little Wool, as well as <hi>France</hi> and <hi>Holland,</hi> who have not much, to promote their Manufactures; are ſufficient Demonſtrations of the Benefit of Importing, and the Damage by Exporting Wool.</p>
+               <list>
+                  <item>Linſeed, as being a Material for Oyl.</item>
+                  <item>Talow, a Material for Soap.</item>
+                  <pb n="3" facs="tcp:171813:2"/>
+                  <!-- PDF PAGE 23 -->
+                  <item>Wax, for Candles and Flambeaus.</item>
+                  <item>Braſs and old Copper may be Re-manufactur'd.</item>
+                  <item>Lead-Ore.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Importation of Goods to be Prohibited, as</head>
+               <list>
+                  <item>Hats, being very well Manufactured at Home.</item>
+                  <item>Stockings, in the like manner.</item>
+                  <item>Powder and Fire-Arms, which are made as good here as any from Abroad.</item>
+                  <item>Cabinets, and all other Pieces of Wrights Work.</item>
+                  <item>Points and Laces: But fine Threed for that purpoſe to be free of all Duty imported.</item>
+                  <item>Earthen and Glaſs Ware, of all ſorts.</item>
+                  <item>Iron Work of all ſorts, except Sword-blades, till we recover again the Making of them.</item>
+                  <item>Soap White or Black, <hi>French</hi> Barley, and Starch.</item>
+                  <item>Cheeſe and Butter.</item>
+                  <item>Tapeſtry, and Hangings of all ſorts; which may be made here upon due encouragement.</item>
+                  <item>Flannel, and all ſorts of Woolen Manufacture, in like manner.</item>
+                  <item>Mum-Beer.</item>
+                  <item>All <hi>Eaſt-India</hi> Goods, unleſs imported directly from thence.</item>
+                  <item>That no Goods, but of the Growth and Manufacture of the Places they directly come from, be Imported.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Encouragements for promoting what is above ſaid.</head>
+               <p>All Tackſmen and Collectors of Cuſtoms, that ſhall paſs any thing ſo prohibited, ſhall incur a certain Penalty <hi>toties quoties,</hi> the one half to the King, and the other to the Informer; and that thoſe belonging to Ma<g ref="char:EOLhyphen"/>nufactures, have Liberty to enter into Ships, Veſſels, Shops, or other Places, the better to diſcover the Goods ſo prohibited.</p>
+               <p>That all Foreign Tradeſmen and Artificers, who Excel in their Profeſſions, may be Enfranchiſed, and have Liberty to Set-up in any Town or Incorporation, and that free from all publick Burdens and Impoſitions, for a certain number of Years: Which being duely obſerved, will not only further encourage skilful Artificers to come and inhabit a<g ref="char:EOLhyphen"/>mongſt us, but ſtrongly invite many Maſters to import their Stocks alſo, to the great Advantage of this Country.</p>
+               <p>That the Law or Cuſtom, obliging Strangers and Un-freemen to make the firſt Offer of their Goods to the Dean of Guild, be taken away, and in lieu thereof, the Strangers to pay them only Two <hi>per Cent.</hi> and Na<g ref="char:EOLhyphen"/>tives but One <hi>per Cent.</hi> more than Burghers, and this Money to be given to New Manufactures. And all Towns and Shires that ſet not up Ma<g ref="char:EOLhyphen"/>nufactures to imploy their own able Poor, may be obliged, according to their valu'd Rents, to pay to others who do imploy their Poor, as much as may amount to One Shilling <hi>Scots per</hi> day for each Head for ſome Years, commencing from the time they ſhall be received; which will greatly en<g ref="char:EOLhyphen"/>courage Manufactures, &amp; yet be more Eaſe to People, than what is uſed to be Collected for the Poor, and given at Doors: Beſides the Benefit that the Publick will receive, by having all Hands Vertuouſly imploied: Which
+<pb n="4" facs="tcp:171813:3"/>
+                  <!-- PDF PAGE 24 -->Numbers of Poor, will more than Manufacture all the Wool of this Na<g ref="char:EOLhyphen"/>tion. And this will remove the great Scandal of ſo many Beggars going about, many of whom, within theſe few Years have Starved for Want. Indeed theſe who are unable to work, ſhould be reaſonably provided for in the Place where they have lived, like the Prudence of <hi>Holland,</hi> where not one Beggar is to be ſeen.</p>
+               <p>That further Laws be made for encouraging our Herring and other Fiſhings, that Trade being of great Conſequence for the Good of the Nation.</p>
+               <p>That neither Silk, Woollen, nor Linnen, but what is Manufactured here, be made uſe of in this Kingdom; and therefore Raw Silk be imported free of all Duty.</p>
+               <p>I ſhall not mention what is fit to be offered concerning the <hi>African</hi> and <hi>Indian</hi> Company, that being proper to come from the Directors thereof.</p>
+               <p>Theſe <hi>Overtures</hi> being ſeriouſly Conſidered by His MAJESTY's <hi>High Commiſſioner,</hi> and the Honourable <hi>Eſtates of Parliament,</hi> I am perſwa<g ref="char:EOLhyphen"/>ded they, in their Wiſdom, will find them neceſ<g ref="char:EOLhyphen"/>ſary to make the Nation Happy: And however this may ſeem to croſs the Intereſt of ſome; yet it is always known, that a Publick Good, will, in a ſhort time, Recompenſe a preſent Loſs.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
